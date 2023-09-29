@@ -122,8 +122,6 @@ body {
 }
 
 .footer__navegacion {
-    color: var(--background-blanco);
-    font: var(--open-sans);
     text-align: center;
     line-height: 3;
 }
